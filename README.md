@@ -1,6 +1,6 @@
 ## Hi, i'm Donisca 👋
 
-I'm a Dev Newbie 👍
+I'm a Newbie Dev👍
 
 <pre>
              ________________________________________________              
